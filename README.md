@@ -3,7 +3,7 @@
 A simple and elegant **Todo Manager** built with **React**, **Tailwind CSS**, and **localStorage**. Easily add, edit, delete, and mark todos as completed. Your tasks are saved automatically in the browser’s storage.
 
 ---
-🚀 **Live Demo:** [itask.vercel.app](https://itask.vercel.app)
+🚀 **Live Demo:** [itaskuj.vercel.app](https://itaskuj.vercel.app)
 ---
 
 ![image](https://github.com/user-attachments/assets/09f04070-cc6a-4ccb-8273-054863c4bccf)
